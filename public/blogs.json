@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/9hV625R/2.png",
+        "title": "Exploring Deep Space with Advanced Telescopes",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/SP8RCgx/girl1.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": "10",
+        "hashtags": ["Lorem", "Ipsum", "FakeData"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/G55zWRG/1.jpg",
+        "title": "Mastering Gourmet Cooking: Delights for Food Lovers",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/zbWN5BD/girl2.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": "8",
+        "hashtags": ["Sample", "Article", "Data"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/PhRF60W/3.png",
+        "title": "Environmental Conservation: A Path to Sustainability",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/xFPGZ0H/boy2.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": "15",
+        "hashtags": ["Fiction", "Story", "Fantasy"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/WkWysfK/4.jpg",
+        "title": "Digital Art Mastery: From Novice to Pro",
+        "author": "David Williams",
+        "author_img": "https://i.ibb.co/Mk9LJQs/boy1.png",
+        "posted_date": "2023-09-09",
+        "reading_time": "12",
+        "hashtags": ["Tech", "Trends", "Innovation"]
+    }
+]
